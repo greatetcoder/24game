@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="24game:war exploded">
+    <output-path>$PROJECT_DIR$/../24game/out/artifacts/24game_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="24game/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="24game" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
